@@ -1,0 +1,19 @@
+{
+    "debug": true,
+    "context": {
+        "timeout": 10
+    },
+    "server": {
+        "address": ":8089"
+    },
+    "jwt": {
+        "key": "r4nd0mst1r1ngf0rJwTt0k3n"
+    },
+    "database": {
+        "host": "localhost",
+        "port": "3306",
+        "user": "root",
+        "pass": "1550",
+        "name": "golangblog"
+    }
+}
